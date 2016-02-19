@@ -1,6 +1,6 @@
 # Group Hub – Terms of Service
 
-## *1	Introduction*
+## 1	Introduction
 Thank you for using Group Hub (“**Group Hub**”, “**we**” or “**us**”). Group Hub provides a software platform (the “**Group Hub Platform**”) that enables you to create and manage Groups (as defined below) built on the Group Hub Platform. We also provide a set of services that will enhance your experience as a member of Groups on the Group Hub Platform.
 
 These Terms of Service contain general terms that apply to you as a user of the Group Hub Platform, along with additional terms that may apply to you as a Group Manager (as defined below) if you decide to create your own Group. When using the Group Hub Platform, you will be subject to the Group Hub Privacy Policy.
