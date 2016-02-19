@@ -275,9 +275,9 @@ You may contact Group Hub in the following ways:
 **E-mail:** {{LEGAL_EMAIL}}
 
 **Post:**
-Group Hub Limited
-1-2 Hampshire Terrace
-Portsmouth
-Hampshire
-PO1 2QF
+Group Hub Limited,
+1-2 Hampshire Terrace,
+Portsmouth,
+Hampshire,
+PO1 2QF,
 UK
