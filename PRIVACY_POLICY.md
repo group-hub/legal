@@ -2,14 +2,14 @@
 
 *Last Updated 22 February 2016*
 
-This Privacy Policy governs the collection, storage and use of personal data collected by us, Group Hub Limited, when you register and create a group (“**Group**”) using our website at @lang('main.legal-url') (the “**Website**”). It provides you with details about the personal data we collect from you and members of your Group, how we use that personal data and your and their rights to control our use of personal data. Please read this Privacy Policy carefully. By visiting the Website, you confirm that you have read, understood and agree to this Privacy Policy in its entirety. If you do not agree to this Privacy Policy in its entirety, you must not use the Website.
+This Privacy Policy governs the collection, storage and use of personal data collected by us, Group Hub Limited, when you register and create a group (“**Group**”) using our website at @lang("main.legal-url") (the “**Website**”). It provides you with details about the personal data we collect from you and members of your Group, how we use that personal data and your and their rights to control our use of personal data. Please read this Privacy Policy carefully. By visiting the Website, you confirm that you have read, understood and agree to this Privacy Policy in its entirety. If you do not agree to this Privacy Policy in its entirety, you must not use the Website.
 
 ## 1.	Who we are
 For the purpose of the Data Protection Act 1998, the data controller is Group Hub Limited of 1-2 Hampshire Terrace, Portsmouth, Hampshire, UK, PO1 2QF. We are a registered data controller with the Information Commissioner’s Office, registration number ZA154361.
 
 We respect the right that you and members of your Group have to privacy and will only process personal data you or they provide in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulation 2013 and other applicable privacy laws.
 
-If you have any questions about how we collect, store and use personal data, or if you have any other privacy-related questions, please e-mail us at: @lang('main.legal-email')
+If you have any questions about how we collect, store and use personal data, or if you have any other privacy-related questions, please e-mail us at: @lang("main.legal-email")
 
 ## 2.	An important note about children
 We do not and will not knowingly collect information from any unsupervised child under the age of 13. You must not create or attempt to create any Group that allows or encourages use or registration by any unsupervised child under the age of 13. If you are under the age of 13, you may not register with any Group unless you have the consent of, and are supervised by, a parent or guardian.
