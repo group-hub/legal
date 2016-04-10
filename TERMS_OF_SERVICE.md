@@ -15,7 +15,7 @@ The Group Hub Platform is not directed to children younger than 13 and is offere
 
 You represent that you are fully able and competent to enter into the terms, conditions, obligations, representations and warranties set forth in these Terms of Service. If you are using or creating a Group on the Group Hub Platform as a representative of a company or legal entity, (i) you represent that you have the authority to enter into this Agreement on behalf of that company or entity, and (ii) you agree that the terms “you” and “your” in this Agreement refers to your company or legal entity.
 
-@lang("main.legal-url") is a site operated by Group Hub Limited. We are registered in England and Wales under company number 09757871 and have our registered office at 1-2 Hampshire Terrace, Portsmouth, Hampshire, PO1 2QF, UK.
+{{ env("LEGAL_URL", "www.grouphub.co.uk") }} is a site operated by Group Hub Limited. We are registered in England and Wales under company number 09757871 and have our registered office at 1-2 Hampshire Terrace, Portsmouth, Hampshire, PO1 2QF, UK.
 
 ## 2	Definitions
 “**Content**” means (i) any work of authorship in a Group, including, comments, recommendations, forums, photos, videos, music, sounds, images, text, files, listings, logos, trademarks, postings, messages, tags and other content added to or submitted with any of the foregoing; or (ii) other materials posted on or transmitted through any Group or the Group Hub Platform.
@@ -152,7 +152,7 @@ We will not be liable for any loss or damage caused by a distributed denial-of-s
 You acknowledge that Group Hub may terminate your Group Hub Account (which is separate from a Group Manager’s right to terminate your membership), and remove your Content and Group Member Data, as well as disable your access to any and all Groups and the Group Hub Platform, in accordance with the terms of this Agreement. If you are a Group Member, you acknowledge that nothing in any agreement (or related policies) you may be subject to with any Group Manager or other party will alter, impair, supercede, amend or otherwise affect in any way any terms of this Agreement or Group Hub’s Privacy Policy.
 
 ## 12	Intellectual Property Complaints
-Group Hub is committed to the protection of intellectual property rights of third parties. Accordingly, rights owners concerned because they have found Content on the Group Hub Platform for which they have not given permission should contact us at @lang("main.legal-email") stating the following:
+Group Hub is committed to the protection of intellectual property rights of third parties. Accordingly, rights owners concerned because they have found Content on the Group Hub Platform for which they have not given permission should contact us at {{ env("LEGAL_EMAIL", "legal@grouphub.co.uk") }} stating the following:
 *	Their contact details;
 *	The location of the Content on the Group Hub Platform;
 *	An explanation of why the Content should not be on the Group Hub Platform; and
@@ -235,7 +235,7 @@ We may amend, modify, change, add or remove portions of this Agreement at any ti
 
 ## 21	Term and Termination
 ### 21.1	Term
-This Agreement shall remain in full force and effect unless and until your account is terminated as provided herein. You may terminate your membership within any Group on the Group Hub Platform at any time and for any or no reason by contacting us at @lang("main.legal-email") or at the address set forth below in the “Contacting Group Hub” Section.
+This Agreement shall remain in full force and effect unless and until your account is terminated as provided herein. You may terminate your membership within any Group on the Group Hub Platform at any time and for any or no reason by contacting us at {{ env("LEGAL_EMAIL", "legal@grouphub.co.uk") }} or at the address set forth below in the “Contacting Group Hub” Section.
 
 21.2	Termination
 Group Hub has the right (at its sole discretion) for any reason to (i) delete, disable or deactivate your account, block your email or IP address, or otherwise terminate your access to or use of the Group Hub Platform or any Group, (ii) remove and discard any Content within any Group or anywhere on the Group Hub Platform or (iii) shut down a Group, with or without notice, and with no liability of any kind to you.
@@ -274,7 +274,7 @@ The terms “including” and “includes” shall be deemed to be followed by t
 ## 26	Contacting Group Hub
 You may contact Group Hub in the following ways:
 
-**E-mail:** @lang("main.legal-email")
+**E-mail:** {{ env("LEGAL_EMAIL", "legal@grouphub.co.uk") }}
 
 **Post:**
 Group Hub Limited,
